@@ -12,7 +12,7 @@ deploy:
   provider: elasticbeanstalk
   region: "ap-northeast-1"
   app: "Test"
-  env: "Test-env"
+  env: "Test-env-1"
   bucket_name: "elasticbeanstalk-ap-northeast-1-163722832846"
   bucket_path: "Test"
   on:
